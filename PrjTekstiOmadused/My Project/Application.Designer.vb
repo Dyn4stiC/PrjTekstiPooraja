@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.PrjTekstiOmadused.Form1
+            Me.MainForm = Global.PrjTekstiOmadused.EkraaniVorm
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
